@@ -1,0 +1,14 @@
+# build output
+dist
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+
+# environment_variables
+.env
+database.json
+
+.vscode
